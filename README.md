@@ -10,8 +10,13 @@ Disclaimer: Can be very buggy at times.
 Disclaimer: I've scaled down the strength of all the forces significantly for visibility, but they are still the same strengths relative to each other and they still behave the same, just weaker.
 
 Controls:
+
 Spacebar to pause/unpause
+
 V to cycle background through fields (electric->magnetic->strong red->strong green->strong blue->electric)
+
 S to spawn particles
+
 D to delete particles
+
 E to toggle behavior of the screen edge between deletion and reflection
